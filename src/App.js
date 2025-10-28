@@ -1,6 +1,8 @@
 import logo from './logo.svg';
 import './App.css';
 
+import './bootstrap.css';
+
 import { Usuario } from './components/Usuario';
 
 function App() {
